@@ -15,6 +15,27 @@ With this tutorial you will be able to have Markdown Syntrax support in all of H
 
 ***
 
+###Extra
+
+If you want a bit more color and nice style with your messages and comments then you can use this....
+
+-  open HumHUb/themes/yourtheme/css/theme.css and paste at the very end the following code:
+
+`.panel-body strong {
+    font-weight: bold;
+    color: rgb(173, 39, 8);
+    font-size: 15px;
+    font-family: "PT Sans";
+}
+code {
+    color: #1cc1f5;
+    background-color: #1d2024;
+    border: 1px solid #000;
+}`
+- good luck and have fun using it :)
+***
+
+
 ###You can use only the following Markdown tags
 
 - list style: `- your text here, or + your text here, or 1. your text here` 
