@@ -42,7 +42,6 @@ code {
          title="HumHub Messages with Markdown and Style" align="left" />
 </a>
 
-
 ***
 
 
