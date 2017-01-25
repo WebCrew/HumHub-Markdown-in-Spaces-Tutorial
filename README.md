@@ -7,7 +7,7 @@ With this tutorial you will be able to have Markdown Syntrax support in all of H
 -  Upload the JS folder with the humhub_markdown.js to your theme folder (the theme you are using)
 -  open views/layouts/head.php with a code editor like Sublime or Notepad++ and integrate the following code snippet:
 
-`<!-- MARKDOWN IN SPACES -->	
+-  `<!-- MARKDOWN IN SPACES -->	
 <?php $this->registerJsFile( $this->theme->getBaseUrl().'/js/humhub_markdown.js', ['position'=>\yii\web\View::POS_END]); ?>`
 -  now save the head.php and upload it again back to your theme folder
 -  juhuuu, now you are ready to use Markdown in Spaces and Comments
