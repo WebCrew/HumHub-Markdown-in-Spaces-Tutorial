@@ -16,8 +16,8 @@ With this tutorial you will be able to have Markdown Syntrax support in all of H
 ###You can use only the following Markdown tags
 
 - list style: `- your text here, or + your text here, or 1. your text here` 
-- bold text: `two asterisks then your text and again two asterisks`
-- italic text: `*one asterisks* or _underscores_`
+- bold text: `**your text**`
+- italic text: `*your text* or _your text_`
 - titles (H3,H4): `### Your H3 title, or #### Your H4 title `
 - horizontal rules: `three underscores ___ or three asterisks ***`
 
