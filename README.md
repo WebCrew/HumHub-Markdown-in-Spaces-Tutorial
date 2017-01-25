@@ -19,7 +19,7 @@ With this tutorial you will be able to have Markdown Syntrax support in all of H
 
 If you want a bit more color and nice style with your messages and comments then you can use this....
 
--  open HumHUb/themes/yourtheme/css/theme.css and paste at the very end the following code:
+-  open HumHub/themes/yourtheme/css/theme.css and paste at the very end the following code:
 
 -  `
 .panel-body strong {
@@ -57,7 +57,7 @@ code {
 ***
 ###Important Note 
 
-Do **not use** other Markdown tags as mentioned, otherwise the website **stops loading**!!!
+Do **not use** other Markdown tags as the ones which I have named, otherwise the website **stops loading**!!!
 ***
 
 ##Autors
