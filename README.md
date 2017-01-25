@@ -1,5 +1,6 @@
 # HumHub-Markdown-in-Spaces-Tutorial
 With this tutorial you will be able to have Markdown Syntrax support in all of HumHub CMS **Spaces and Comments**. I can understand the performance implications of doing this on the server side. However, there aren't **any of those concerns** if we process the Markdown on the client side, so all is fine.
+***
 
 ##Tutorial
 
@@ -10,12 +11,20 @@ With this tutorial you will be able to have Markdown Syntrax support in all of H
 <?php $this->registerJsFile( $this->theme->getBaseUrl().'/js/humhub_markdown.js', ['position'=>\yii\web\View::POS_END]); ?>`
 -  now save the head.php and upload it again back to your theme folder
 -  juhuuu, now you are ready to use Markdown in Spaces and Comments
+***
 
-##Markdown Cheatsheet
+###You can use only the following Markdown tags
 
--  here you can find a cheatsheet for Markdown code: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
--  NOTE: The H1 and H2 Tags are not working because of SEO. 
--  Also do not use Markdown code to integrate Links, it is better to just paste it as always (the HumHub default way)
+- list style: `- your text here, or + your text here, or 1. your text here` 
+- bold text: `two asterisks then your text and again two asterisks`
+- italic text: `*one asterisks* or _underscores_`
+- titles (H3,H4): `### Your H3 title, or #### Your H4 title `
+- horizontal rules: `three underscores ___ or three asterisks ***`
+***
+###Important Note 
+
+Do **not use** other Markdown tags as mentioned, otherwise the website **stops loading**!!!
+***
 
 ##Autors
 
