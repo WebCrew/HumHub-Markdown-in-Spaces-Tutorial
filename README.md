@@ -21,7 +21,7 @@ If you want a bit more color and nice style with your messages and comments then
 
 -  open HumHUb/themes/yourtheme/css/theme.css and paste at the very end the following code:
 
-`
+-  `
 .panel-body strong {
     font-weight: bold;
     color: rgb(173, 39, 8);
@@ -29,7 +29,7 @@ If you want a bit more color and nice style with your messages and comments then
     font-family: "PT Sans";
 }
 `
-`
+-  `
 code {
     color: #1cc1f5;
     background-color: #1d2024;
