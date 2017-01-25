@@ -39,10 +39,8 @@ code {
 -  here is a example screenshot
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/HumHub-Markdown-in-Spaces-Tutorial/blob/master/markdown.png?raw=true" alt="Messages Screenshot"
-         title="HumHub Messages with Markdown and Style" align="left" />
+         title="HumHub Messages with Markdown and Style" align="center" />
 </a>
-
-
 
 ***
 
