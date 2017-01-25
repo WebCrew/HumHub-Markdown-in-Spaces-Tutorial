@@ -36,7 +36,12 @@ code {
     border: 1px solid #000;
 }
 `
-- good luck and have fun using it :)
+-  good luck and have fun using it :)
+-  <a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/markdown.jpg?raw=true" alt="Messages Screenshot"
+         title="HumHub Messages with Markdown and Style" align="left" />
+</a>
+
 
 ***
 
