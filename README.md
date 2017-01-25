@@ -1,5 +1,5 @@
 # HumHub-Markdown-in-Spaces-Tutorial
-With this tutorial you will be able to have Markdown Syntrax support in all of HumHub CMS **Spaces and Comments**.
+With this tutorial you will be able to have Markdown Syntrax support in all of HumHub CMS **Spaces and Comments**. I can understand the performance implications of doing this on the server side. However, there aren't **any of those concerns** if we process the Markdown on the client side, so all is fine.
 
 ##Tutorial
 
